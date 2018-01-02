@@ -24,7 +24,7 @@ $ pip install -r requirements.txt
 To install RoboSumo, clone the repository and run `pip install`:
 
 ```bash
-$ git clone https://github.com/openai/robosumo
+$ git clone https://github.com/tahirwaseer/robosumo
 $ cd robosumo
 $ pip install -e .
 ```
